@@ -1,0 +1,7 @@
+# Local-only files (the laptop agent's state + logs).
+# The cloud Action uses its own notify_state.json, which IS tracked.
+state.json
+scraper.log
+__pycache__/
+*.pyc
+.DS_Store

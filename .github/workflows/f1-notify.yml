@@ -1,0 +1,52 @@
+name: F1 docs notifier
+
+# Cloud-based notifier: checks the FIA F1 documents page every few minutes and
+# pushes a phone notification (ntfy) for new penalties / steward decisions.
+# Runs 24/7 regardless of whether the laptop is on. It does NOT download PDFs —
+# the local laptop agent handles downloads. State (which docs were already seen)
+# is committed back to the repo as notify_state.json.
+
+on:
+  schedule:
+    # Every 5 minutes. GitHub may delay scheduled runs under load.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}        # allow manual runs from the Actions tab
+
+# Never run two checks at once (they'd race on the committed state file).
+concurrency:
+  group: f1-notify
+  cancel-in-progress: false
+
+permissions:
+  contents: write              # needed to commit the updated state file
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Check FIA documents and notify
+        env:
+          # Falls back to the topic hardcoded in the script if the secret is unset.
+          F1_NTFY_TOPIC: ${{ secrets.F1_NTFY_TOPIC }}
+          F1_STATE_FILE: notify_state.json
+          F1_NOTIFY: "1"
+        run: python3 f1_docs_scraper.py --notify-only
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain notify_state.json)" ]]; then
+            git add notify_state.json
+            git commit -m "F1 notifier: update seen-docs state [skip ci]"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          else
+            echo "No state change."
+          fi

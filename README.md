@@ -6,6 +6,18 @@ Polls the FIA Formula 1 decision-documents page, downloads new PDFs to
 
 No third-party Python packages — standard library only.
 
+## How it's split (two parts)
+
+| Part | Where | Job |
+|---|---|---|
+| **Laptop agent** (launchd) | this Mac | Downloads PDFs to the Desktop. Runs silently (`F1_NOTIFY=0`) — sends **no** notifications. Only runs while the Mac is awake. |
+| **Cloud notifier** (GitHub Action) | GitHub, 24/7 | The single source of phone notifications. Checks every ~5 min and pushes ntfy alerts for penalties/steward decisions. Does **not** download. |
+
+This split avoids duplicate alerts and means you're notified even when the
+laptop is off — while the files still land on your Desktop whenever it's awake.
+The two keep separate state files so they don't interfere
+(`state.json` local, `notify_state.json` in the repo / committed by the Action).
+
 ## Phone notifications (one-time setup)
 
 1. Install the **ntfy** app: [iOS](https://apps.apple.com/app/ntfy/id1625396347) / [Android](https://play.google.com/store/apps/details?id=io.heckel.ntfy).

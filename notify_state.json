@@ -701,5 +701,31 @@
     "published": "05.06.26 09:35 CET",
     "important": false,
     "seen_at": "2026-06-05T08:39:19.797382+00:00"
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_infringement_-_car_16_-_media_commitment.pdf": {
+    "title": "Doc 18 - Infringement - Car 16 - Media Commitment",
+    "published": "05.06.26 12:32 CET",
+    "important": true,
+    "seen_at": "2026-06-05T11:48:47.102279+00:00",
+    "summary": "Charles Leclerc (Car 16) was late for the Thursday Press Conference, resulting in a \u20ac5,000 suspended fine for Scuderia Ferrari HP."
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_infringement_-_car_1_-_media_commitment.pdf": {
+    "title": "Doc 17 - Infringement - Car 1 - Media Commitment",
+    "published": "05.06.26 12:32 CET",
+    "important": true,
+    "seen_at": "2026-06-05T11:49:00.617576+00:00",
+    "summary": "McLaren Mastercard F1 Team (Car 1, Lando Norris) was fined \u20ac5,000, suspended for 12 months, for the driver being late to the Thursday Press Conference."
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 16 - Entry List",
+    "published": "05.06.26 11:30 CET",
+    "important": false,
+    "seen_at": "2026-06-05T11:49:13.977361+00:00"
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 15 - Car Presentation Submissions",
+    "published": "05.06.26 11:00 CET",
+    "important": false,
+    "seen_at": "2026-06-05T11:49:33.113141+00:00"
   }
 }

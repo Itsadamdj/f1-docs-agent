@@ -1027,5 +1027,23 @@
     "published": "07.06.26 13:51 CET",
     "important": false,
     "seen_at": "2026-06-07T12:58:03.060156+00:00"
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_provisional_race_classification.pdf": {
+    "title": "Doc 80 - Provisional Race Classification",
+    "published": "07.06.26 17:57 CET",
+    "important": false,
+    "seen_at": "2026-06-07T16:12:00.112821+00:00"
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_infringement_-_car_44_-_pit_lane_speeding.pdf": {
+    "title": "Doc 70 - Infringement - Car 44 - Pit lane speeding",
+    "published": "07.06.26 16:17 CET",
+    "important": true,
+    "seen_at": "2026-06-07T16:12:00.534449+00:00"
+  },
+  "/system/files/decision-document/2026_monaco_grand_prix_-_infringement_-_car_11_-_false_start_-_out_of_position.pdf": {
+    "title": "Doc 69 - Infringement - Car 11 - False start - Out of position",
+    "published": "07.06.26 15:31 CET",
+    "important": true,
+    "seen_at": "2026-06-07T16:12:01.033219+00:00"
   }
 }

@@ -1207,5 +1207,41 @@
     "published": "10.06.26 15:17 CET",
     "important": false,
     "seen_at": "2026-06-10T16:01:13.962065+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_timetable_v3.pdf": {
+    "title": "Doc 10 - Timetable V3",
+    "published": "11.06.26 18:23 CET",
+    "important": false,
+    "seen_at": "2026-06-11T16:56:42.229645+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_directors_competition_notes_v2.pdf": {
+    "title": "Doc 9 - Race Director's Competition Notes V2",
+    "published": "11.06.26 18:12 CET",
+    "important": false,
+    "seen_at": "2026-06-11T16:56:58.868594+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf": {
+    "title": "Doc 8 - Competition Notes - Circuit Map, Pit Lane Drawing and Emergency Exits Map",
+    "published": "11.06.26 17:59 CET",
+    "important": false,
+    "seen_at": "2026-06-11T16:57:13.417159+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_car_display_procedure.pdf": {
+    "title": "Doc 7 - Car Display Procedure",
+    "published": "11.06.26 17:48 CET",
+    "important": false,
+    "seen_at": "2026-06-11T16:57:28.645290+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_race_directors_competition_notes.pdf": {
+    "title": "Doc 6 - Race Director's Competition Notes",
+    "published": "11.06.26 17:42 CET",
+    "important": false,
+    "seen_at": "2026-06-11T16:57:43.110922+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_power_unit_information.pdf": {
+    "title": "Doc 5 - Power Unit Information",
+    "published": "11.06.26 16:32 CET",
+    "important": false,
+    "seen_at": "2026-06-11T16:57:57.425277+00:00"
   }
 }

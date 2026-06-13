@@ -1432,5 +1432,25 @@
     "published": "13.06.26 13:51 CET",
     "important": false,
     "seen_at": "2026-06-13T15:13:47.476291+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf": {
+    "title": "Doc 43 - Decision - Qualifying SC2-SC1 Times",
+    "published": "13.06.26 17:35 CET",
+    "important": true,
+    "seen_at": "2026-06-13T16:47:30.593741+00:00",
+    "summary": "Multiple drivers exceeded the time limit between Safety Car lines during qualifying, but the Stewards decided to take no further action."
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf": {
+    "title": "Doc 42 - Infringement - Qualifying Deleted Lap Times",
+    "published": "13.06.26 17:31 CET",
+    "important": true,
+    "seen_at": "2026-06-13T16:47:45.440422+00:00",
+    "summary": "Carlos Sainz, Alexander Albon, Lance Stroll, and Nico Hulkenberg had specific lap times deleted for not using the track at turns 2, 9, and 10 during qualifying."
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_provisional_qualifying_classification.pdf": {
+    "title": "Doc 41 - Provisional Qualifying Classification",
+    "published": "13.06.26 17:25 CET",
+    "important": false,
+    "seen_at": "2026-06-13T16:47:58.667729+00:00"
   }
 }

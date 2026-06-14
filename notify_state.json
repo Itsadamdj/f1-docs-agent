@@ -1598,5 +1598,18 @@
     "important": true,
     "seen_at": "2026-06-14T17:43:40.808830+00:00",
     "summary": "Multiple drivers had their lap times deleted for not using the track at turns 2, 4, 10, 13, and 14 during the race."
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_championship_points.pdf": {
+    "title": "Doc 70 - Championship Points",
+    "published": "14.06.26 20:10 CET",
+    "important": false,
+    "seen_at": "2026-06-14T20:22:40.557256+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_final_race_classification.pdf": {
+    "title": "Doc 68 - Final Race Classification",
+    "published": "14.06.26 19:50 CET",
+    "important": true,
+    "seen_at": "2026-06-14T20:22:55.904366+00:00",
+    "summary": "Car 43 (Franco Colapinto) received a 10-second time penalty for failing to slow for yellow flags, and Car 12 (Kimi Antonelli) received a 5-second time penalty for leaving the track multiple times."
   }
 }

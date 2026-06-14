@@ -1494,5 +1494,25 @@
     "published": "14.06.26 10:17 CET",
     "important": false,
     "seen_at": "2026-06-14T10:01:16.251334+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_final_starting_grid.pdf": {
+    "title": "Doc 54 - Final Starting Grid",
+    "published": "14.06.26 14:00 CET",
+    "important": true,
+    "seen_at": "2026-06-14T12:06:46.942421+00:00",
+    "summary": "Fernando Alonso (Car 14) is required to start from the pit lane due to car modifications and additional power unit elements used under Parc Ferm\u00e9 conditions."
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf": {
+    "title": "Doc 53 - Parts and Parameters been replaced and or changed during Parc Ferm\u00e9",
+    "published": "14.06.26 13:52 CET",
+    "important": false,
+    "seen_at": "2026-06-14T12:07:01.432785+00:00"
+  },
+  "/system/files/decision-document/2026_barcelona-catalunya_grand_prix_-_infringement_-_car_14_-_pu_elements_and_changes_used_during_parc_ferme.pdf": {
+    "title": "Doc 52 - Infringement - Car 14 - PU elements and changes used during Parc Ferme",
+    "published": "14.06.26 12:56 CET",
+    "important": true,
+    "seen_at": "2026-06-14T12:07:16.351929+00:00",
+    "summary": "Fernando Alonso (Car 14) of Aston Martin Aramco F1 Team is required to start the race from the pit lane for using additional Power Unit elements and replacing them without approval during Parc ferm\u00e9."
   }
 }

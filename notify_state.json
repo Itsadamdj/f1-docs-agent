@@ -1784,5 +1784,38 @@
     "important": true,
     "seen_at": "2026-06-27T13:44:10.611452+00:00",
     "summary": "Multiple drivers had their Free Practice 3 lap times deleted for not using the track at turns 1, 3, and 9."
+  },
+  "/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_double_yellow.pdf": {
+    "title": "Doc 33 - Infringement - Qualifying Deleted Lap Times - Double Yellow",
+    "published": "27.06.26 18:14 CET",
+    "important": true,
+    "seen_at": "2026-06-27T16:17:28.589968+00:00",
+    "summary": "Nine drivers had their qualifying lap times deleted for passing through a double waved yellow flag marshalling sector."
+  },
+  "/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_car_6_-_failing_to_follow_race_directors_instructions_sc2-sc1.pdf": {
+    "title": "Doc 32 - Infringement - Car 6 - Failing to follow Race Directors Instructions (SC2-SC1)",
+    "published": "27.06.26 18:13 CET",
+    "important": true,
+    "seen_at": "2026-06-27T16:17:41.682530+00:00",
+    "summary": "Isack Hadjar (Car 6) received a Warning for exceeding the time limit between the Safety Car lines and driving unnecessarily slowly."
+  },
+  "/system/files/decision-document/2026_austrian_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf": {
+    "title": "Doc 31 - Infringement - Qualifying Deleted Lap Times",
+    "published": "27.06.26 18:09 CET",
+    "important": true,
+    "seen_at": "2026-06-27T16:17:56.591503+00:00",
+    "summary": "Lewis Hamilton (Car 44) and Franco Colapinto (Car 43) had their qualifying lap times deleted for not using the track at turns 1 and 3."
+  },
+  "/system/files/decision-document/2026_austrian_grand_prix_-_provisional_qualifying_classification.pdf": {
+    "title": "Doc 30 - Provisional Qualifying Classification",
+    "published": "27.06.26 17:21 CET",
+    "important": false,
+    "seen_at": "2026-06-27T16:18:09.804527+00:00"
+  },
+  "/system/files/decision-document/2026_austrian_grand_prix_-_summons_-_car_6_-_alleged_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf": {
+    "title": "Doc 29 - Summons - Car 6 - Alleged Failure to follow Race Director's instructions (SC2-SC1 Time)",
+    "published": "27.06.26 17:10 CET",
+    "important": false,
+    "seen_at": "2026-06-27T16:18:23.038659+00:00"
   }
 }

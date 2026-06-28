@@ -1952,5 +1952,12 @@
     "published": "28.06.26 18:18 CET",
     "important": false,
     "seen_at": "2026-06-28T16:59:15.981983+00:00"
+  },
+  "/system/files/decision-document/2026_austrian_grand_prix_-_decision_-_car_11_-_alleged_false_start_-_moving_before_signal.pdf": {
+    "title": "Doc 55 - Decision - Car 11 - Alleged false start - Moving before signal",
+    "published": "28.06.26 19:24 CET",
+    "important": true,
+    "seen_at": "2026-06-28T18:10:29.946928+00:00",
+    "summary": "Sergio Perez (Car 11) was found to have moved before the start signal but received no penalty as his car had already retired from the race."
   }
 }

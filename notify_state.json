@@ -1959,5 +1959,23 @@
     "important": true,
     "seen_at": "2026-06-28T18:10:29.946928+00:00",
     "summary": "Sergio Perez (Car 11) was found to have moved before the start signal but received no penalty as his car had already retired from the race."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_timetable_v3.pdf": {
+    "title": "Doc 3 - Timetable V3",
+    "published": "02.07.26 13:00 CET",
+    "important": false,
+    "seen_at": "2026-07-02T11:17:34.659622+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_competition_visa.pdf": {
+    "title": "Doc 2 - Competition Visa",
+    "published": "02.07.26 12:59 CET",
+    "important": false,
+    "seen_at": "2026-07-02T11:17:51.701202+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_competition_notes_-_pirelli_preview.pdf": {
+    "title": "Doc 1 - Competition Notes - Pirelli Preview",
+    "published": "02.07.26 13:00 CET",
+    "important": false,
+    "seen_at": "2026-07-02T11:18:06.185654+00:00"
   }
 }

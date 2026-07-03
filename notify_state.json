@@ -2001,5 +2001,41 @@
     "published": "02.07.26 20:04 CET",
     "important": false,
     "seen_at": "2026-07-02T21:32:31.553776+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 13 - Car Presentation Submissions",
+    "published": "03.07.26 11:00 CET",
+    "important": false,
+    "seen_at": "2026-07-03T11:05:03.325775+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_timetable_v4.pdf": {
+    "title": "Doc 12 - Timetable V4",
+    "published": "03.07.26 10:34 CET",
+    "important": false,
+    "seen_at": "2026-07-03T11:05:17.292194+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 11 - Entry List",
+    "published": "03.07.26 10:15 CET",
+    "important": false,
+    "seen_at": "2026-07-03T11:05:30.479208+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_self_scrutineering.pdf": {
+    "title": "Doc 10 - Self Scrutineering",
+    "published": "03.07.26 10:05 CET",
+    "important": false,
+    "seen_at": "2026-07-03T11:05:43.542520+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf": {
+    "title": "Doc 9 - PU elements used per driver up to now",
+    "published": "03.07.26 10:05 CET",
+    "important": false,
+    "seen_at": "2026-07-03T11:05:57.528777+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_post-sprint_qualifying_procedure.pdf": {
+    "title": "Doc 8 - Post-Sprint Qualifying Procedure",
+    "published": "03.07.26 09:52 CET",
+    "important": false,
+    "seen_at": "2026-07-03T11:06:11.408463+00:00"
   }
 }

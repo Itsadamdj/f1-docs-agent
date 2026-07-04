@@ -2182,5 +2182,30 @@
     "published": "04.07.26 11:58 CET",
     "important": false,
     "seen_at": "2026-07-04T11:26:05.692343+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_summons_-_car_6_-_alleged_abnormal_change_of_direction_by_car_30.pdf": {
+    "title": "Doc 41 - Summons - Car 6 - Alleged abnormal change of direction by Car 30",
+    "published": "04.07.26 14:07 CET",
+    "important": false,
+    "seen_at": "2026-07-04T12:43:48.357519+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_summons_-_car_30_-_alleged_abnormal_change_of_direction.pdf": {
+    "title": "Doc 40 - Summons - Car 30 - Alleged abnormal change of direction",
+    "published": "04.07.26 14:06 CET",
+    "important": false,
+    "seen_at": "2026-07-04T12:44:01.806766+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_provisional_sprint_classification.pdf": {
+    "title": "Doc 39 - Provisional Sprint Classification",
+    "published": "04.07.26 14:00 CET",
+    "important": true,
+    "seen_at": "2026-07-04T12:44:18.034649+00:00",
+    "summary": "Car 11 (Sergio Perez) received a 10-second time penalty for causing a collision."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_summons_-_car_27_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf": {
+    "title": "Doc 38 - Summons - Car 27 - Alleged leaving the track and gaining an advantage",
+    "published": "04.07.26 13:59 CET",
+    "important": false,
+    "seen_at": "2026-07-04T12:44:31.260116+00:00"
   }
 }

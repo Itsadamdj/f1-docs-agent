@@ -2169,5 +2169,18 @@
     "published": "04.07.26 11:28 CET",
     "important": false,
     "seen_at": "2026-07-04T09:56:09.231546+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_final_sprint_starting_grid.pdf": {
+    "title": "Doc 37 - Final Sprint Starting Grid",
+    "published": "04.07.26 12:02 CET",
+    "important": true,
+    "seen_at": "2026-07-04T11:25:51.895962+00:00",
+    "summary": "Alexander Albon (Car 23) is required to start from the pit lane due to car modification under Parc Ferm\u00e9 conditions."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_sprint_parc_ferme.pdf": {
+    "title": "Doc 36 - Parts and parameters been replaced and or changed during Sprint Parc Ferm\u00e9",
+    "published": "04.07.26 11:58 CET",
+    "important": false,
+    "seen_at": "2026-07-04T11:26:05.692343+00:00"
   }
 }

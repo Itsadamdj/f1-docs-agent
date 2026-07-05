@@ -2372,5 +2372,18 @@
     "important": true,
     "seen_at": "2026-07-05T12:04:26.919792+00:00",
     "summary": "Lance Stroll (Car 18) received a 10-grid position drop for using additional Power Unit elements."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_final_starting_grid.pdf": {
+    "title": "Doc 70 - Final Starting Grid",
+    "published": "05.07.26 15:01 CET",
+    "important": true,
+    "seen_at": "2026-07-05T14:03:42.873518+00:00",
+    "summary": "Car 10 (Pierre Gasly) received a 3-place grid penalty for impeding another driver, and Car 18 (Lance Stroll) received a 10-place grid penalty for using additional power unit elements."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf": {
+    "title": "Doc 69 - Parts and parameters been replaced and or changed during Race Parc Ferm\u00e9",
+    "published": "05.07.26 14:52 CET",
+    "important": false,
+    "seen_at": "2026-07-05T14:03:58.881092+00:00"
   }
 }

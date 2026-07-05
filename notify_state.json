@@ -2412,5 +2412,57 @@
     "important": true,
     "seen_at": "2026-07-05T16:33:12.271999+00:00",
     "summary": "Alexander Albon (Car 23) of Atlassian Williams F1 Team received a 10-second time penalty for causing a collision with Car 87."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_race_deleted_lap_times.pdf": {
+    "title": "Doc 82 - Infringement - Race Deleted Lap Times",
+    "published": "05.07.26 20:39 CET",
+    "important": true,
+    "seen_at": "2026-07-05T18:44:34.098501+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_18_-_leaving_the_track_multiple_times_1.pdf": {
+    "title": "Doc 81 - Infringement - Car 18 - Leaving the track multiple times",
+    "published": "05.07.26 19:59 CET",
+    "important": true,
+    "seen_at": "2026-07-05T18:44:46.332762+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_race_scrutineering.pdf": {
+    "title": "Doc 80 - Race Scrutineering",
+    "published": "05.07.26 19:58 CET",
+    "important": false,
+    "seen_at": "2026-07-05T18:44:59.807293+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_18_-_leaving_the_track_multiple_times_0.pdf": {
+    "title": "Doc 79 - Infringement - Car 18 - Leaving the track multiple times",
+    "published": "05.07.26 19:58 CET",
+    "important": true,
+    "seen_at": "2026-07-05T18:45:13.195182+00:00",
+    "summary": "Lance Stroll (Car 18) received a 5 second time penalty for a fifth track limits infringement during the race."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_18_-_leaving_the_track_multiple_times.pdf": {
+    "title": "Doc 78 - Infringement - Car 18 - Leaving the track multiple times",
+    "published": "05.07.26 19:58 CET",
+    "important": true,
+    "seen_at": "2026-07-05T18:45:27.138207+00:00",
+    "summary": "Lance Stroll (Car 18) received a 5-second time penalty for his fourth track limits infringement during the race."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_12_-_leaving_the_track_multiple_times.pdf": {
+    "title": "Doc 77 - Infringement - Car 12 - Leaving the track multiple times",
+    "published": "05.07.26 19:49 CET",
+    "important": true,
+    "seen_at": "2026-07-05T18:45:41.063789+00:00",
+    "summary": "Kimi Antonelli (Car 12) received a 5-second time penalty for his fourth track limits infringement during the race."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_summons_-_williams_-_alleged_safety_car_infringement.pdf": {
+    "title": "Doc 76 - Summons - Williams - Alleged Safety Car infringement",
+    "published": "05.07.26 19:41 CET",
+    "important": false,
+    "seen_at": "2026-07-05T18:45:54.188997+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_44_-_yellow_flags_-_failing_to_slow.pdf": {
+    "title": "Doc 75 - Infringement - Car 44 - Yellow flags - Failing to slow",
+    "published": "05.07.26 19:37 CET",
+    "important": true,
+    "seen_at": "2026-07-05T18:46:08.173360+00:00",
+    "summary": "Lewis Hamilton (Car 44) received a reprimand for failing to slow for a single yellow flag at Turn 9."
   }
 }

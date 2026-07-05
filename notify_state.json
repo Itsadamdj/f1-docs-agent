@@ -2385,5 +2385,32 @@
     "published": "05.07.26 14:52 CET",
     "important": false,
     "seen_at": "2026-07-05T14:03:58.881092+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_provisional_race_classification.pdf": {
+    "title": "Doc 74 - Provisional Race Classification",
+    "published": "05.07.26 18:00 CET",
+    "important": true,
+    "seen_at": "2026-07-05T16:32:30.104870+00:00",
+    "summary": "Car 12 Kimi Antonelli received a 5-second time penalty for track limits as per an in-race Stewards' decision."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_summons_-_car_44_-_alleged_yellow_flag_infringement.pdf": {
+    "title": "Doc 73 - Summons - Car 44 - Alleged yellow flag infringement",
+    "published": "05.07.26 17:49 CET",
+    "important": false,
+    "seen_at": "2026-07-05T16:32:42.535495+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_44_-_false_start_-_moving_before_start_signal.pdf": {
+    "title": "Doc 72 - Infringement - Car 44 - False start - Moving before start signal",
+    "published": "05.07.26 17:20 CET",
+    "important": true,
+    "seen_at": "2026-07-05T16:32:57.732522+00:00",
+    "summary": "Lewis Hamilton (Car 44) received a 5-second time penalty for moving before the start signal."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_23_-_causing_a_collision_with_car_87.pdf": {
+    "title": "Doc 71 - Infringement - Car 23 - Causing a collision with Car 87",
+    "published": "05.07.26 17:20 CET",
+    "important": true,
+    "seen_at": "2026-07-05T16:33:12.271999+00:00",
+    "summary": "Alexander Albon (Car 23) of Atlassian Williams F1 Team received a 10-second time penalty for causing a collision with Car 87."
   }
 }

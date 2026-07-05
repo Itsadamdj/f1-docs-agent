@@ -2464,5 +2464,25 @@
     "important": true,
     "seen_at": "2026-07-05T18:46:08.173360+00:00",
     "summary": "Lewis Hamilton (Car 44) received a reprimand for failing to slow for a single yellow flag at Turn 9."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_championship_points.pdf": {
+    "title": "Doc 85 - Championship Points",
+    "published": "05.07.26 21:40 CET",
+    "important": false,
+    "seen_at": "2026-07-05T20:01:01.610960+00:00"
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_final_race_classification.pdf": {
+    "title": "Doc 84 - Final Race Classification",
+    "published": "05.07.26 21:35 CET",
+    "important": true,
+    "seen_at": "2026-07-05T20:01:18.599553+00:00",
+    "summary": "Kimi Antonelli (Car 12) received a 5-second time penalty for track limits, and Carlos Sainz (Car 55) received a 1 Penalty Lap for overtaking the Safety Car."
+  },
+  "/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_55_-_overtaking_the_safety_car.pdf": {
+    "title": "Doc 83 - Infringement - Car 55 - Overtaking the Safety Car",
+    "published": "05.07.26 20:57 CET",
+    "important": true,
+    "seen_at": "2026-07-05T20:01:32.676471+00:00",
+    "summary": "Car 55 (Carlos Sainz) received a 1 Penalty Lap for overtaking the Safety Car when not entitled."
   }
 }

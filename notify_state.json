@@ -2526,5 +2526,42 @@
     "published": "16.07.26 17:50 CET",
     "important": false,
     "seen_at": "2026-07-16T16:06:02.127144+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_31_-_media_commitment.pdf": {
+    "title": "Doc 13 - Infringement - Car 31 - Media Commitment",
+    "published": "17.07.26 12:27 CET",
+    "important": true,
+    "seen_at": "2026-07-17T10:30:01.420796+00:00",
+    "summary": "Esteban Ocon (Car 31) and TGR Haas F1 Team were fined \u20ac5,000, suspended for 12 months, for the driver being late to the Thursday Press Conference."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 12 - Car Presentation Submissions",
+    "published": "17.07.26 12:17 CET",
+    "important": false,
+    "seen_at": "2026-07-17T10:30:16.479838+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 11 - Entry List",
+    "published": "17.07.26 11:56 CET",
+    "important": false,
+    "seen_at": "2026-07-17T10:30:30.200588+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_self_scrutineering.pdf": {
+    "title": "Doc 10 - Self Scrutineering",
+    "published": "17.07.26 11:35 CET",
+    "important": false,
+    "seen_at": "2026-07-17T10:30:43.903940+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_31_-_late_attendance_of_the_thursday_press_conference.pdf": {
+    "title": "Doc 9 - Summons - Car 31 - Late attendance of the Thursday Press Conference",
+    "published": "17.07.26 09:52 CET",
+    "important": false,
+    "seen_at": "2026-07-17T10:30:58.139514+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf": {
+    "title": "Doc 8 - PU elements used per driver up to now",
+    "published": "17.07.26 10:42 CET",
+    "important": false,
+    "seen_at": "2026-07-17T10:31:13.537411+00:00"
   }
 }

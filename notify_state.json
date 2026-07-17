@@ -2581,5 +2581,53 @@
     "published": "17.07.26 14:52 CET",
     "important": false,
     "seen_at": "2026-07-17T13:16:30.214991+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_1_-_change_to_pu_element.pdf": {
+    "title": "Doc 23 - Infringement - Car 1 - Change to PU element",
+    "published": "17.07.26 16:53 CET",
+    "important": true,
+    "seen_at": "2026-07-17T14:54:48.747647+00:00",
+    "summary": "Lando Norris (Car 1) received a 10-grid position drop for the next race due to using a 4th Control Electronics Unit, breaching FIA F1 Regulations."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_18_-_change_to_pu_element.pdf": {
+    "title": "Doc 22 - Infringement - Car 18 - Change to PU element",
+    "published": "17.07.26 16:53 CET",
+    "important": true,
+    "seen_at": "2026-07-17T14:55:02.863202+00:00",
+    "summary": "Lance Stroll (Car 18) received a 10-grid position drop for using a 4th MGU-K, exceeding the permitted power unit element allocation."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_6_-_changes_to_pu_elements.pdf": {
+    "title": "Doc 21 - Infringement - Car 6 - Changes to PU elements",
+    "published": "17.07.26 16:52 CET",
+    "important": true,
+    "seen_at": "2026-07-17T14:55:17.185652+00:00",
+    "summary": "Isack Hadjar (Car 6) received a back-of-the-grid penalty for using additional power unit elements beyond the permitted limit."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf": {
+    "title": "Doc 20 - Infringement - Free Practice 1 Deleted Lap Times",
+    "published": "17.07.26 16:51 CET",
+    "important": true,
+    "seen_at": "2026-07-17T14:55:33.889674+00:00",
+    "summary": "Multiple drivers had their Free Practice 1 lap times deleted for not using the track at turns 3, 4, 5, 6, 11, and 19."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_55_-_crossing_the_white_line_at_pit_entry.pdf": {
+    "title": "Doc 19 - Infringement - Car 55 - Crossing the white line at pit entry",
+    "published": "17.07.26 16:33 CET",
+    "important": true,
+    "seen_at": "2026-07-17T14:55:47.660650+00:00",
+    "summary": "Carlos Sainz (Car 55) received a reprimand for crossing the white line at pit entry during Free Practice 1."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_34_-_pit_lane_speeding.pdf": {
+    "title": "Doc 18 - Infringement - Car 34 - Pit lane speeding",
+    "published": "17.07.26 16:47 CET",
+    "important": true,
+    "seen_at": "2026-07-17T14:56:01.947595+00:00",
+    "summary": "Car 34 (Jak Crawford) was fined \u20ac100 for pit lane speeding."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_27_-_alleged_yellow_flag_infringement.pdf": {
+    "title": "Doc 17 - Summons - Car 27 - Alleged yellow flag infringement",
+    "published": "17.07.26 15:23 CET",
+    "important": false,
+    "seen_at": "2026-07-17T14:56:16.000098+00:00"
   }
 }

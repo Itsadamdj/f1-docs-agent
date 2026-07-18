@@ -2763,5 +2763,17 @@
     "important": true,
     "seen_at": "2026-07-18T14:04:15.834702+00:00",
     "summary": "Fernando Alonso (Car 14) received a back-of-the-grid penalty for using additional Power Unit elements beyond the permitted allocation."
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_covers-on_time.pdf": {
+    "title": "Doc 47 - Covers-on Time",
+    "published": "18.07.26 18:05 CET",
+    "important": false,
+    "seen_at": "2026-07-18T16:07:09.686191+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_provisional_qualifying_classification.pdf": {
+    "title": "Doc 46 - Provisional Qualifying Classification",
+    "published": "18.07.26 17:23 CET",
+    "important": false,
+    "seen_at": "2026-07-18T16:07:22.803817+00:00"
   }
 }

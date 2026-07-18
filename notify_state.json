@@ -2696,5 +2696,12 @@
     "published": "18.07.26 09:32 CET",
     "important": false,
     "seen_at": "2026-07-18T10:36:28.544380+00:00"
+  },
+  "/system/files/decision-document/2026_belgian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf": {
+    "title": "Doc 36 - New PU Elements for this Competition",
+    "published": "18.07.26 12:50 CET",
+    "important": true,
+    "seen_at": "2026-07-18T11:33:41.440675+00:00",
+    "summary": "Fernando Alonso (Car 14, Aston Martin Aramco Honda) has exceeded the allowed number of Energy Store, Control Electronics, and Power Unit Ancillary Components, which is not in conformity with"
   }
 }

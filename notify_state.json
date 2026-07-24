@@ -2995,5 +2995,32 @@
     "published": "24.07.26 13:35 CET",
     "important": false,
     "seen_at": "2026-07-24T12:51:42.134319+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_decision_-_car_55_-_alleged_erratic_driving_in_turn_9.pdf": {
+    "title": "Doc 21 - Decision - Car 55 - Alleged erratic driving in Turn 9",
+    "published": "24.07.26 16:31 CET",
+    "important": true,
+    "seen_at": "2026-07-24T15:57:20.670259+00:00",
+    "summary": "Car 55 (Carlos Sainz) was investigated for alleged erratic driving in Turn 9 during Free Practice 1, but the stewards decided to take no further action."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_decision_-_car_3_-_alleged_erratic_driving_in_turn_12.pdf": {
+    "title": "Doc 20 - Decision - Car 3 - Alleged erratic driving in Turn 12",
+    "published": "24.07.26 16:06 CET",
+    "important": true,
+    "seen_at": "2026-07-24T15:57:34.178859+00:00",
+    "summary": "Max Verstappen (Car 3) was investigated for slowing significantly in Turn 12 during Free Practice 1, but no further action was taken."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_infringement_-_car_55_-_erratic_driving_in_turn_12_0.pdf": {
+    "title": "Doc 19 - Infringement - Car 55 - Erratic driving in Turn 12",
+    "published": "24.07.26 16:06 CET",
+    "important": true,
+    "seen_at": "2026-07-24T15:57:48.387853+00:00",
+    "summary": "Carlos Sainz (Car 55) received a warning for hindering Car 3 (Max Verstappen) on the racing line during Free Practice 1."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_free_practice_1_classification.pdf": {
+    "title": "Doc 18 - Free Practice 1 Classification",
+    "published": "24.07.26 14:51 CET",
+    "important": false,
+    "seen_at": "2026-07-24T15:58:03.332705+00:00"
   }
 }

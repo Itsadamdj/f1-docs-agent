@@ -2927,5 +2927,35 @@
     "published": "23.07.26 18:21 CET",
     "important": false,
     "seen_at": "2026-07-23T16:52:32.135894+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 11 - Entry List",
+    "published": "24.07.26 12:54 CET",
+    "important": false,
+    "seen_at": "2026-07-24T11:20:09.535214+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_self_scrutineering.pdf": {
+    "title": "Doc 10 - Self Scrutineering",
+    "published": "24.07.26 12:54 CET",
+    "important": false,
+    "seen_at": "2026-07-24T11:20:22.328098+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 9 - Car Presentation Submissions",
+    "published": "24.07.26 12:54 CET",
+    "important": false,
+    "seen_at": "2026-07-24T11:20:39.253761+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_curfew.pdf": {
+    "title": "Doc 8 - Curfew",
+    "published": "24.07.26 12:54 CET",
+    "important": false,
+    "seen_at": "2026-07-24T11:20:55.748794+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf": {
+    "title": "Doc 7 - PU Elements used per Driver up to now",
+    "published": "24.07.26 12:41 CET",
+    "important": false,
+    "seen_at": "2026-07-24T11:21:11.190928+00:00"
   }
 }

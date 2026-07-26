@@ -3185,5 +3185,19 @@
     "published": "26.07.26 09:56 CET",
     "important": false,
     "seen_at": "2026-07-26T09:28:14.532005+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_final_starting_grid.pdf": {
+    "title": "Doc 52 - Final Starting Grid",
+    "published": "26.07.26 14:00 CET",
+    "important": true,
+    "seen_at": "2026-07-26T12:11:38.707654+00:00",
+    "summary": "Lewis Hamilton (Car 44) received a 3-place grid penalty for impeding another driver; Kimi Antonelli (Car 12) received a 3-place grid penalty for failing to slow for yellow flags; Sergio Perez (Car 11) is required to start from the pit lane for modifying his car under Parc Ferm\u00e9 conditions."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_infringement_-_car_11_-_changes_made_under_parc_ferme.pdf": {
+    "title": "Doc 50 - Infringement - Car 11 - Changes made under Parc Ferme",
+    "published": "26.07.26 12:38 CET",
+    "important": true,
+    "seen_at": "2026-07-26T12:11:52.912616+00:00",
+    "summary": "Sergio Perez (Car 11) was required to start the Race from the pit lane for changing the suspension setup under parc ferm\u00e9 without approval."
   }
 }

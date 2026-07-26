@@ -3199,5 +3199,26 @@
     "important": true,
     "seen_at": "2026-07-26T12:11:52.912616+00:00",
     "summary": "Sergio Perez (Car 11) was required to start the Race from the pit lane for changing the suspension setup under parc ferm\u00e9 without approval."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_decision_-_car_16_-_alleged_failure_to_slow_for_yellow_flags.pdf": {
+    "title": "Doc 56 - Decision - Car 16 - Alleged failure to slow for yellow flags",
+    "published": "26.07.26 17:03 CET",
+    "important": true,
+    "seen_at": "2026-07-26T15:05:00.687807+00:00",
+    "summary": "Charles Leclerc (Car 16) received no further action for an alleged failure to slow for yellow flags at Turn 2."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_provisional_race_classification.pdf": {
+    "title": "Doc 55 - Provisional Race Classification",
+    "published": "26.07.26 16:58 CET",
+    "important": true,
+    "seen_at": "2026-07-26T15:05:21.918827+00:00",
+    "summary": "Car 87 (Oliver Bearman) received a 5-second time penalty for ignoring blue flags, and Car 44 (Lewis Hamilton) received a 5-second time penalty for speeding in the pit lane."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_infringement_-_car_55_-_collision_with_car_81.pdf": {
+    "title": "Doc 54 - Infringement - Car 55 - Collision with car 81",
+    "published": "26.07.26 16:55 CET",
+    "important": true,
+    "seen_at": "2026-07-26T15:05:38.119524+00:00",
+    "summary": "Car 55 (Carlos Sainz) received a 5-second time penalty for colliding with Car 81."
   }
 }

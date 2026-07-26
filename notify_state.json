@@ -3260,5 +3260,18 @@
     "important": true,
     "seen_at": "2026-07-26T17:16:33.504288+00:00",
     "summary": "Sergio Perez (Car 11) received a Warning for being out of position at Safety Car Line 1 during the formation lap."
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_championship_points.pdf": {
+    "title": "Doc 63 - Championship Points",
+    "published": "26.07.26 19:30 CET",
+    "important": false,
+    "seen_at": "2026-07-26T18:14:56.407835+00:00"
+  },
+  "/system/files/decision-document/2026_hungarian_grand_prix_-_final_race_classification.pdf": {
+    "title": "Doc 62 - Final Race Classification",
+    "published": "26.07.26 19:25 CET",
+    "important": true,
+    "seen_at": "2026-07-26T18:15:10.040810+00:00",
+    "summary": "Lewis Hamilton (Car 44) received a 5-second time penalty for speeding in the pit lane, and Oliver Bearman (Car 87) received a 5-second time penalty for ignoring blue flags."
   }
 }

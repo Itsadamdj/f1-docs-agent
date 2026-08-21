@@ -3339,5 +3339,19 @@
     "published": "21.08.26 08:02 CET",
     "important": false,
     "seen_at": "2026-08-21T09:05:48.465787+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf": {
+    "title": "Doc 14 - Infringement - Free Practice 1 Deleted Lap Times",
+    "published": "21.08.26 13:55 CET",
+    "important": true,
+    "seen_at": "2026-08-21T12:03:35.373581+00:00",
+    "summary": "Carlos Sainz (car 55), Lewis Hamilton (car 44), Nico Hulkenberg (car 27), and Lando Norris (car 1) had specific lap times deleted for not using the track at turns 3, 11, 12, and 13 during Free Practice 1."
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_double_yellow.pdf": {
+    "title": "Doc 13 - Infringement - Free Practice 1 Deleted Lap Times Double Yellow",
+    "published": "21.08.26 13:55 CET",
+    "important": true,
+    "seen_at": "2026-08-21T12:03:48.966238+00:00",
+    "summary": "Fernando Alonso, Oliver Bearman, Kimi Antonelli, and Lando Norris had their Free Practice 1 lap times deleted for passing through a double waved yellow flag marshalling sector."
   }
 }

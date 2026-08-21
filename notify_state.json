@@ -3397,5 +3397,18 @@
     "published": "21.08.26 18:01 CET",
     "important": false,
     "seen_at": "2026-08-21T16:14:08.671869+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_infringement-_car_55_-_driving_unnecessarily_slowly_during_sprint_qualifying.pdf": {
+    "title": "Doc 22 - Infringement- Car 55 - driving unnecessarily slowly during sprint qualifying",
+    "published": "21.08.26 19:13 CET",
+    "important": true,
+    "seen_at": "2026-08-21T17:19:16.374547+00:00",
+    "summary": "Carlos Sainz (Car 55) received a Warning for driving unnecessarily slowly during Sprint Qualifying."
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_drivers_meeting.pdf": {
+    "title": "Doc 21 - Drivers' Meeting",
+    "published": "21.08.26 18:33 CET",
+    "important": false,
+    "seen_at": "2026-08-21T17:19:33.218669+00:00"
   }
 }

@@ -3510,5 +3510,18 @@
     "important": true,
     "seen_at": "2026-08-22T12:02:56.470861+00:00",
     "summary": "Lewis Hamilton (Car 44) stopped his car before Safety Car Line 1 when driving to the grid, but no penalty was applied."
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_sprint_scrutineering.pdf": {
+    "title": "Doc 43 - Sprint Scrutineering",
+    "published": "22.08.26 14:49 CET",
+    "important": false,
+    "seen_at": "2026-08-22T12:55:56.533061+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_5_-_unsafe_release.pdf": {
+    "title": "Doc 42 - Infringement - Car 5 - Unsafe release",
+    "published": "22.08.26 14:17 CET",
+    "important": true,
+    "seen_at": "2026-08-22T12:56:11.938428+00:00",
+    "summary": "Car 5 (Gabriel Bortoleto) of Audi Revolut F1 Team received a Warning for an unsafe release."
   }
 }

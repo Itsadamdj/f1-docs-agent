@@ -3462,5 +3462,25 @@
     "published": "22.08.26 12:53 CET",
     "important": false,
     "seen_at": "2026-08-22T11:02:16.836213+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_77_-_failure_to_follow_race_directors_instructions_reaching_the_grid.pdf": {
+    "title": "Doc 37 - Infringement - Car 77 - Failure to follow Race Director's Instructions (Reaching the Grid)",
+    "published": "22.08.26 13:28 CET",
+    "important": true,
+    "seen_at": "2026-08-22T11:29:09.606928+00:00",
+    "summary": "Stewards decided not to penalize Valtteri Bottas (Car 77) for stopping his car before Safety Car Line 1 when driving to the grid."
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_sprint_deleted_lap_times.pdf": {
+    "title": "Doc 36 - Infringement - Sprint Deleted Lap Times",
+    "published": "22.08.26 13:21 CET",
+    "important": true,
+    "seen_at": "2026-08-22T11:29:23.953706+00:00",
+    "summary": "Pierre Gasly (Car 10, BWT Alpine F1 Team) had his lap time of 1:17.789 deleted for not using the track at Turn 3 during the Sprint session."
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_summons_-_car_5_-_alleged_unsafe_release.pdf": {
+    "title": "Doc 35 - Summons - Car 5 - Alleged unsafe release",
+    "published": "22.08.26 13:07 CET",
+    "important": false,
+    "seen_at": "2026-08-22T11:29:38.318992+00:00"
   }
 }

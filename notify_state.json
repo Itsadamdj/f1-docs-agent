@@ -3716,5 +3716,29 @@
     "published": "23.08.26 14:00 CET",
     "important": false,
     "seen_at": "2026-08-24T14:56:26.132208+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_post-race_procedure.pdf": {
+    "title": "Doc 57 - Post-Race Procedure",
+    "published": "25.08.26 10:35 CET",
+    "important": false,
+    "seen_at": "2026-08-25T08:52:21.265987+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_pre-race_procedure.pdf": {
+    "title": "Doc 56 - Pre-Race Procedure",
+    "published": "25.08.26 10:35 CET",
+    "important": false,
+    "seen_at": "2026-08-25T08:52:37.859487+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_post-qualifying_procedure.pdf": {
+    "title": "Doc 27 - Post-Qualifying Procedure",
+    "published": "25.08.26 10:35 CET",
+    "important": false,
+    "seen_at": "2026-08-25T08:52:50.689238+00:00"
+  },
+  "/system/files/decision-document/2026_dutch_grand_prix_-_post-sprint_procedure.pdf": {
+    "title": "Doc 26 - Post-Sprint Procedure",
+    "published": "25.08.26 10:14 CET",
+    "important": false,
+    "seen_at": "2026-08-25T08:53:05.066895+00:00"
   }
 }

@@ -3850,5 +3850,77 @@
     "published": "04.09.26 12:48 CET",
     "important": false,
     "seen_at": "2026-09-04T14:12:14.609253+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_hearing_adjournment_-_car_25_-_alleged_technical_non-compliance_cds.pdf": {
+    "title": "Doc 29 - Hearing Adjournment - Car 25 - Alleged Technical non-compliance (CDS)",
+    "published": "04.09.26 19:21 CET",
+    "important": false,
+    "seen_at": "2026-09-04T17:36:24.499407+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_18_-_impeding_of_car_1.pdf": {
+    "title": "Doc 28 - Infringement - Car 18 - Impeding of Car 1",
+    "published": "04.09.26 19:29 CET",
+    "important": true,
+    "seen_at": "2026-09-04T17:37:04.335929+00:00",
+    "summary": "Lance Stroll (Car 18) received a warning for impeding Car 1 during Free Practice 2."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_12_-_pit_lane_speeding.pdf": {
+    "title": "Doc 27 - Infringement - Car 12 - Pit lane speeding",
+    "published": "04.09.26 18:22 CET",
+    "important": true,
+    "seen_at": "2026-09-04T17:37:17.950904+00:00",
+    "summary": "Driver 12 Kimi Antonelli (Mercedes-AMG PETRONAS F1 Team) was fined \u20ac100 for pit lane speeding."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf": {
+    "title": "Doc 26 - Race Director Notes - SC2 - SC1 Times",
+    "published": "04.09.26 18:04 CET",
+    "important": false,
+    "seen_at": "2026-09-04T17:37:32.446913+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_corrected.pdf": {
+    "title": "Doc 25 - Infringement - Free Practice 1 Deleted Lap Times (Corrected)",
+    "published": "04.09.26 17:55 CET",
+    "important": true,
+    "seen_at": "2026-09-04T17:37:47.272474+00:00",
+    "summary": "Multiple drivers had their lap times deleted in Free Practice 1 for not using the track at turns 1, 2, 4, 5, and 7."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf": {
+    "title": "Doc 24 - Infringement - Free Practice 2 Deleted Lap Times",
+    "published": "04.09.26 17:40 CET",
+    "important": true,
+    "seen_at": "2026-09-04T17:38:01.904605+00:00",
+    "summary": "Multiple drivers had their Free Practice 2 lap times deleted for not using the track at specific turns."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_free_practice_2_classification.pdf": {
+    "title": "Doc 23 - Free Practice 2 Classification",
+    "published": "04.09.26 17:26 CET",
+    "important": false,
+    "seen_at": "2026-09-04T17:38:15.671869+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_25_-_alleged_technical_non-compliance_-_cds.pdf": {
+    "title": "Doc 22 - Summons - Car 25 - Alleged Technical non-compliance - CDS",
+    "published": "04.09.26 17:11 CET",
+    "important": false,
+    "seen_at": "2026-09-04T17:38:30.446107+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_18_-_alleged_impeding.pdf": {
+    "title": "Doc 21 - Summons - Car 18 - Alleged impeding",
+    "published": "04.09.26 17:11 CET",
+    "important": false,
+    "seen_at": "2026-09-04T17:39:22.476558+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_23_-_changes_to_pu_elements.pdf": {
+    "title": "Doc 20 - Infringement - Car 23 - Changes to PU elements",
+    "published": "04.09.26 17:11 CET",
+    "important": true,
+    "seen_at": "2026-09-04T17:39:37.048085+00:00",
+    "summary": "Alexander Albon (Car 23) received a 20 grid position drop for using additional Power Unit elements (5th ICE, 4th PU-CE)."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_12_-_changes_to_pu_elements.pdf": {
+    "title": "Doc 19 - Infringement - Car 12 - Changes to PU elements",
+    "published": "04.09.26 17:10 CET",
+    "important": true,
+    "seen_at": "2026-09-04T17:39:50.762197+00:00",
+    "summary": "Car 12 (Kimi Antonelli) received a 30-grid position drop for using additional Power Unit elements beyond the permitted allocation."
   }
 }

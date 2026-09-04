@@ -3812,5 +3812,43 @@
     "published": "04.09.26 10:06 CET",
     "important": false,
     "seen_at": "2026-09-04T10:00:27.570499+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition_0.pdf": {
+    "title": "Doc 18 - New PU Elements for this Competition",
+    "published": "04.09.26 16:07 CET",
+    "important": false,
+    "seen_at": "2026-09-04T14:11:01.664534+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_car_25_cds_not_functioning_when_car_stopped_on_the_track.pdf": {
+    "title": "Doc 17 - Car 25; CDS not functioning when car stopped on the track",
+    "published": "04.09.26 15:57 CET",
+    "important": false,
+    "seen_at": "2026-09-04T14:11:14.949482+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow_flags.pdf": {
+    "title": "Doc 16 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellow Flags",
+    "published": "04.09.26 15:00 CET",
+    "important": true,
+    "seen_at": "2026-09-04T14:11:30.460951+00:00",
+    "summary": "Multiple drivers had their Free Practice 1 lap times deleted for passing through a double waved yellow flag zone."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf": {
+    "title": "Doc 15 - Infringement - Free Practice 1 Deleted Lap Times",
+    "published": "04.09.26 14:30 CET",
+    "important": true,
+    "seen_at": "2026-09-04T14:11:45.265188+00:00",
+    "summary": "Multiple drivers had their Free Practice 1 lap times deleted for not using the track at turns 1, 2, 4, 5, and 7."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_free_practice_1_classification.pdf": {
+    "title": "Doc 14 - Free Practice 1 Classification",
+    "published": "04.09.26 13:53 CET",
+    "important": false,
+    "seen_at": "2026-09-04T14:11:59.113863+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition.pdf": {
+    "title": "Doc 13 - New PU Elements for this Competition",
+    "published": "04.09.26 12:48 CET",
+    "important": false,
+    "seen_at": "2026-09-04T14:12:14.609253+00:00"
   }
 }

@@ -3788,5 +3788,29 @@
     "published": "03.09.26 20:50 CET",
     "important": false,
     "seen_at": "2026-09-03T21:22:36.353101+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 12 - Entry List",
+    "published": "04.09.26 10:41 CET",
+    "important": false,
+    "seen_at": "2026-09-04T09:59:23.353954+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_self_scrutineering.pdf": {
+    "title": "Doc 11 - Self Scrutineering",
+    "published": "04.09.26 10:41 CET",
+    "important": false,
+    "seen_at": "2026-09-04T09:59:37.331128+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 10 - Car Presentation Submissions",
+    "published": "04.09.26 09:58 CET",
+    "important": false,
+    "seen_at": "2026-09-04T10:00:12.543141+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf": {
+    "title": "Doc 9 - PU Elements used per Driver up to now",
+    "published": "04.09.26 10:06 CET",
+    "important": false,
+    "seen_at": "2026-09-04T10:00:27.570499+00:00"
   }
 }

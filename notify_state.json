@@ -3940,5 +3940,95 @@
     "published": "05.09.26 13:52 CET",
     "important": false,
     "seen_at": "2026-09-05T13:02:11.095046+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_qualifying_sc2-sc1_times.pdf": {
+    "title": "Doc 46 - Qualifying SC2-SC1 Times",
+    "published": "05.09.26 17:28 CET",
+    "important": true,
+    "seen_at": "2026-09-05T15:58:18.403939+00:00",
+    "summary": "Kimi Antonelli and Liam Lawson exceeded the 1:42.0 time limit between Safety Car lines during qualifying, but the stewards decided no further action was necessary as they took appropriate steps not to impede other drivers."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_qualifying_deleted_lap_times.pdf": {
+    "title": "Doc 45 - Qualifying Deleted Lap Times",
+    "published": "05.09.26 17:22 CET",
+    "important": true,
+    "seen_at": "2026-09-05T15:58:33.377785+00:00",
+    "summary": "Multiple drivers had their qualifying lap times deleted for not using the track at turn 1."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_provisional_qualifying_classification.pdf": {
+    "title": "Doc 44 - Provisional Qualifying Classification",
+    "published": "05.09.26 17:17 CET",
+    "important": false,
+    "seen_at": "2026-09-05T15:58:47.993155+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_30_-_alleged_impeding_by_car_81.pdf": {
+    "title": "Doc 43 - Summons - Car 30 - Alleged impeding by Car 81",
+    "published": "05.09.26 17:08 CET",
+    "important": false,
+    "seen_at": "2026-09-05T15:59:01.617208+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_81_-_alleged_impeding_of_car_30.pdf": {
+    "title": "Doc 42 - Summons - Car 81 - Alleged impeding of Car 30",
+    "published": "05.09.26 17:07 CET",
+    "important": false,
+    "seen_at": "2026-09-05T15:59:15.864005+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_30_-_change_to_pu_elements.pdf": {
+    "title": "Doc 41 - Infringement - Car 30 - Change to PU elements",
+    "published": "05.09.26 17:02 CET",
+    "important": true,
+    "seen_at": "2026-09-05T15:59:29.923774+00:00",
+    "summary": "Car 30 (Liam Lawson) received a 35-grid position drop for using additional power unit elements beyond the permitted allocation."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_55_-_failure_to_slow_for_double_yellow_flags.pdf": {
+    "title": "Doc 40 - Infringement - Car 55 - Failure to slow for double yellow flags",
+    "published": "05.09.26 16:20 CET",
+    "important": true,
+    "seen_at": "2026-09-05T15:59:44.173782+00:00",
+    "summary": "Car 55 (Carlos Sainz) was investigated for failing to slow for double yellow flags, but no penalty was applied."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_23_-_failure_to_slow_for_double_yellow_flags.pdf": {
+    "title": "Doc 39 - Infringement - Car 23 - Failure to slow for double yellow flags",
+    "published": "05.09.26 16:20 CET",
+    "important": true,
+    "seen_at": "2026-09-05T15:59:58.581003+00:00",
+    "summary": "Alexander Albon (Car 23) received a Reprimand for failing to slow for double Yellow Flags."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times_-_yellow_flags.pdf": {
+    "title": "Doc 38 - Infringement - Free Practice 3 Deleted Lap Times - Yellow Flags",
+    "published": "05.09.26 15:17 CET",
+    "important": true,
+    "seen_at": "2026-09-05T16:00:12.929818+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf": {
+    "title": "Doc 37 - Infringement - Free Practice 3 Deleted Lap Times",
+    "published": "05.09.26 15:17 CET",
+    "important": true,
+    "seen_at": "2026-09-05T16:00:27.901648+00:00",
+    "summary": "Multiple drivers had their Free Practice 3 lap times deleted for not using the track at specific turns."
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_55_-_alleged_failure_to_slow_for_yellow_flags.pdf": {
+    "title": "Doc 36 - Summons - Car 55 - alleged failure to slow for yellow flags",
+    "published": "05.09.26 15:35 CET",
+    "important": true,
+    "seen_at": "2026-09-05T16:00:41.736454+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_summons_-_car_23_-_alleged_failure_to_slow_for_yellow_flags.pdf": {
+    "title": "Doc 35 - Summons - Car 23 - alleged failure to slow for yellow flags",
+    "published": "05.09.26 15:35 CET",
+    "important": true,
+    "seen_at": "2026-09-05T16:00:54.718292+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition_1.pdf": {
+    "title": "Doc 33 - New PU Elements for this Competition",
+    "published": "05.09.26 15:37 CET",
+    "important": false,
+    "seen_at": "2026-09-05T16:01:08.877321+00:00"
+  },
+  "/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_25_-_technical_non-conformity_cds.pdf": {
+    "title": "Doc 32 - Infringement - Car 25 - Technical Non-Conformity (CDS)",
+    "published": "05.09.26 17:52 CET",
+    "important": true,
+    "seen_at": "2026-09-05T16:01:23.541755+00:00"
   }
 }

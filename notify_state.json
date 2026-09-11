@@ -4230,5 +4230,41 @@
     "published": "10.09.26 19:25 CET",
     "important": false,
     "seen_at": "2026-09-10T19:48:53.822303+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_11_-_second_pit_lane_speeding.pdf": {
+    "title": "Doc 13 - Infringement - Car 11 - Second Pit Lane Speeding",
+    "published": "11.09.26 14:01 CET",
+    "important": true,
+    "seen_at": "2026-09-11T12:49:40.495055+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_11_-_pit_lane_speeding.pdf": {
+    "title": "Doc 12 - Infringement - Car 11 - Pit Lane Speeding",
+    "published": "11.09.26 14:00 CET",
+    "important": true,
+    "seen_at": "2026-09-11T12:50:24.951365+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 11 - Car Presentation Submissions",
+    "published": "11.09.26 11:01 CET",
+    "important": false,
+    "seen_at": "2026-09-11T12:51:07.061830+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 10 - Entry List",
+    "published": "11.09.26 10:20 CET",
+    "important": false,
+    "seen_at": "2026-09-11T12:52:18.519609+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf": {
+    "title": "Doc 9 - PU Elements used per Driver up to now",
+    "published": "11.09.26 09:50 CET",
+    "important": false,
+    "seen_at": "2026-09-11T12:53:29.760056+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_self_scrutineering.pdf": {
+    "title": "Doc 8 - Self Scrutineering",
+    "published": "11.09.26 09:47 CET",
+    "important": false,
+    "seen_at": "2026-09-11T12:54:40.992012+00:00"
   }
 }

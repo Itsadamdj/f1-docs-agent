@@ -4266,5 +4266,75 @@
     "published": "11.09.26 09:47 CET",
     "important": false,
     "seen_at": "2026-09-11T12:54:40.992012+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_p1_and_p2_scrutineering.pdf": {
+    "title": "Doc 24 - P1 and P2 scrutineering",
+    "published": "11.09.26 20:52 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:19:29.680512+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_timetable_v4.pdf": {
+    "title": "Doc 23 - Timetable V4",
+    "published": "11.09.26 20:41 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:19:54.746868+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf": {
+    "title": "Doc 22 - Race Director Notes - SC2 - SC1 Times",
+    "published": "11.09.26 19:02 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:20:12.857111+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf": {
+    "title": "Doc 21 - Infringement - Free Practice 2 Deleted Lap Times",
+    "published": "11.09.26 18:31 CET",
+    "important": true,
+    "seen_at": "2026-09-11T19:20:30.439601+00:00",
+    "summary": "Multiple drivers had their Free Practice 2 lap times deleted for not using the track at specified turns."
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_free_practice_2_classification.pdf": {
+    "title": "Doc 20 - Free Practice 2 Classification",
+    "published": "11.09.26 18:20 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:20:45.643407+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_23_-_leaving_the_track_and_re-joining_unsafely_.pdf": {
+    "title": "Doc 19 - Infringement - Car 23 - Leaving the track and re-joining unsafely",
+    "published": "11.09.26 16:41 CET",
+    "important": true,
+    "seen_at": "2026-09-11T19:21:01.086116+00:00",
+    "summary": "Alexander Albon (Car 23) received a warning for leaving the track and re-joining unsafely."
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellows.pdf": {
+    "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times - Double Yellows",
+    "published": "11.09.26 16:20 CET",
+    "important": true,
+    "seen_at": "2026-09-11T19:21:18.361527+00:00",
+    "summary": "Fernando Alonso (Aston Martin) had a lap time from Free Practice 1 deleted for passing through a double waved yellow flag zone."
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf": {
+    "title": "Doc 17 - Infringement - Free Practice 1 Deleted Lap Times",
+    "published": "11.09.26 16:15 CET",
+    "important": true,
+    "seen_at": "2026-09-11T19:21:34.994659+00:00",
+    "summary": "Multiple drivers had their Free Practice 1 lap times deleted for not using the track at specific turns."
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_free_practice_1_classification.pdf": {
+    "title": "Doc 16 - Free Practice 1 Classification",
+    "published": "11.09.26 15:00 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:21:49.293255+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_summons_-_car_41_-_alleged_re-joining_the_track_unsafely_.pdf": {
+    "title": "Doc 15 - Summons - Car 41 - Alleged re-joining the track unsafely",
+    "published": "11.09.26 15:04 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:22:04.739178+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_summons_-_car_23_-_alleged_re-joining_the_track_unsafely_.pdf": {
+    "title": "Doc 14 - Summons - Car 23 - Alleged re-joining the track unsafely",
+    "published": "11.09.26 15:03 CET",
+    "important": false,
+    "seen_at": "2026-09-11T19:22:21.069588+00:00"
   }
 }

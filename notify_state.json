@@ -4484,5 +4484,59 @@
     "important": true,
     "seen_at": "2026-09-12T17:04:46.785257+00:00",
     "summary": "Lando Norris (Car 1) of McLaren Mastercard F1 Team was fined \u20ac900 for pit lane speeding during qualifying."
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_provisional_starting_grid.pdf": {
+    "title": "Doc 57 - Provisional Starting Grid",
+    "published": "12.09.26 21:00 CET",
+    "important": false,
+    "seen_at": "2026-09-12T19:01:54.788322+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_final_qualifying_classification.pdf": {
+    "title": "Doc 56 - Final Qualifying Classification",
+    "published": "12.09.26 20:50 CET",
+    "important": false,
+    "seen_at": "2026-09-12T19:02:09.301376+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_decision_-_permission_to_start.pdf": {
+    "title": "Doc 55 - Decision - Permission to Start",
+    "published": "12.09.26 20:43 CET",
+    "important": true,
+    "seen_at": "2026-09-12T19:02:20.420539+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_fp3_and_qualifying_scrutineering.pdf": {
+    "title": "Doc 54 - FP3 and Qualifying Scrutineering",
+    "published": "12.09.26 20:03 CET",
+    "important": false,
+    "seen_at": "2026-09-12T19:02:31.530302+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_16_-_failure_to_follow_rd_instructions_scl2_-_scl1.pdf": {
+    "title": "Doc 53 - Infringement - Car 16 - Failure to follow RD instructions (SCL2 - SCL1)",
+    "published": "12.09.26 19:35 CET",
+    "important": true,
+    "seen_at": "2026-09-12T19:02:42.667825+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_63_-_failure_to_follow_race_director_instructions_-_scl2_-_scl1.pdf": {
+    "title": "Doc 52 - Infringement - Car 63 - Failure to follow Race Director Instructions - (SCL2 - SCL1)",
+    "published": "12.09.26 19:26 CET",
+    "important": true,
+    "seen_at": "2026-09-12T19:02:53.755401+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_12_-_failure_to_follow_rd_instructions_scl2_-_scl1.pdf": {
+    "title": "Doc 51 - Infringement - Car 12 - Failure to follow RD instructions (SCL2 - SCL1)",
+    "published": "12.09.26 19:23 CET",
+    "important": true,
+    "seen_at": "2026-09-12T19:03:06.719631+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf": {
+    "title": "Doc 50 - Decision - Qualifying SC2-SC1 Times",
+    "published": "12.09.26 19:12 CET",
+    "important": true,
+    "seen_at": "2026-09-12T19:03:17.882707+00:00"
+  },
+  "/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_5_-_failure_to_follow_rd_instructions_scl2_-_scl1.pdf": {
+    "title": "Doc 49 - Infringement - Car 5 - Failure to Follow RD Instructions (SCL2 - SCL1)",
+    "published": "12.09.26 19:15 CET",
+    "important": true,
+    "seen_at": "2026-09-12T19:03:28.962234+00:00"
   }
 }

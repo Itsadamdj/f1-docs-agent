@@ -4832,5 +4832,30 @@
     "published": "24.09.26 17:17 CET",
     "important": false,
     "seen_at": "2026-09-24T18:29:37.759445+00:00"
+  },
+  "/system/files/decision-document/2026_azerbaijan_grand_prix_-_infringement_-_car_14_-_pu_element.pdf": {
+    "title": "Doc 34 - Infringement - Car 14 - PU element",
+    "published": "25.09.26 11:21 CET",
+    "important": true,
+    "seen_at": "2026-09-25T09:50:08.060051+00:00",
+    "summary": "Fernando Alonso (Car 14) received a 5-place grid penalty for using a 7th Energy Store (ES), exceeding the permitted power unit elements."
+  },
+  "/system/files/decision-document/2026_azerbaijan_grand_prix_-_new_pu_elements_for_this_competition_0.pdf": {
+    "title": "Doc 33 - New PU Elements for this Competition",
+    "published": "25.09.26 10:48 CET",
+    "important": false,
+    "seen_at": "2026-09-25T09:50:26.968656+00:00"
+  },
+  "/system/files/decision-document/2026_azerbaijan_grand_prix_-_curfew_amended.pdf": {
+    "title": "Doc 32 - Curfew, amended",
+    "published": "25.09.26 09:35 CET",
+    "important": false,
+    "seen_at": "2026-09-25T09:50:40.815101+00:00"
+  },
+  "/system/files/decision-document/2026_azerbaijan_grand_prix_-_post-qualifying_procedure.pdf": {
+    "title": "Doc 31 - Post-Qualifying Procedure",
+    "published": "25.09.26 08:17 CET",
+    "important": false,
+    "seen_at": "2026-09-25T09:50:54.355468+00:00"
   }
 }

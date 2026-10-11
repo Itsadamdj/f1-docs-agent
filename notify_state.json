@@ -5934,5 +5934,84 @@
     "published": "10.10.26 17:27 CET",
     "important": false,
     "seen_at": "2026-10-10T19:22:20.889150+00:00"
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_provisional_race_classification.pdf": {
+    "title": "Doc 87 - Provisional Race Classification",
+    "published": "11.10.26 16:02 CET",
+    "important": false,
+    "seen_at": "2026-10-11T14:10:15.007884+00:00"
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_car_44_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf": {
+    "title": "Doc 86 - Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+    "published": "11.10.26 16:02 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:10:30.555864+00:00",
+    "summary": "Lewis Hamilton (Car 44) received no further action for allegedly leaving the track in turn 1."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_18_-_failure_to_follow_race_directors_instructions_-_practice_start.pdf": {
+    "title": "Doc 85 - Infringement - Car 18 - Failure to follow Race Director's Instructions - Practice Start",
+    "published": "11.10.26 16:06 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:10:43.559733+00:00",
+    "summary": "Lance Stroll (Car 18) received a warning for failing to perform a practice start during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_final_starting_grid.pdf": {
+    "title": "Doc 84 - Final Starting Grid",
+    "published": "11.10.26 13:01 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:10:58.415148+00:00",
+    "summary": "George Russell (Car 63) received a 60-place grid penalty, and Fernando Alonso (Car 14), Lance Stroll (Car 18), and Isack Hadjar (Car 6) are required to start from the pit lane due to various infringements."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_6_-_pu_elements_and_changes_made_during_parc_ferme.pdf": {
+    "title": "Doc 83 - Infringement - Car 6 - PU elements and changes made during Parc Ferme",
+    "published": "11.10.26 13:23 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:11:12.252804+00:00",
+    "summary": "Car 6 (Isack Hadjar) was required to start the Race from the pit lane for replacing Power Unit elements and changing suspension setup without approval during parc ferm\u00e9."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_race_parc_ferme.pdf": {
+    "title": "Doc 82 - Parts and Parameters been replaced and or changed during Race Parc Ferme",
+    "published": "11.10.26 12:52 CET",
+    "important": false,
+    "seen_at": "2026-10-11T14:11:25.462515+00:00"
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_18_-_changes_made_during_parc_ferme.pdf": {
+    "title": "Doc 81 - Infringement - Car 18 - Changes made during Parc Ferme",
+    "published": "11.10.26 12:27 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:11:39.130719+00:00",
+    "summary": "Lance Stroll (Car 18) was required to start the Race from the pit lane for changing the suspension setup under parc ferm\u00e9 and working on the car beyond the covers-on time."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_14_-_pu_element_and_changes_made_during_parc_ferme.pdf": {
+    "title": "Doc 80 - Infringement - Car 14 - PU element and changes made during Parc Ferme",
+    "published": "11.10.26 12:25 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:11:52.685462+00:00",
+    "summary": "Car 14 (Fernando Alonso, Aston Martin Aramco F1 Team) was required to start the Race from the pit lane for using an additional Power Unit element, changing suspension setup under parc ferm\u00e9 without approval, and working on the car beyond covers-on time."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_63_-_additional_changes_to_pu_elements.pdf": {
+    "title": "Doc 79 - Infringement - Car 63 - Additional changes to PU elements",
+    "published": "11.10.26 11:47 CET",
+    "important": true,
+    "seen_at": "2026-10-11T14:12:06.356487+00:00",
+    "summary": "George Russell (Car 63) received a 20-grid position drop for using additional Power Unit elements."
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_parc_ferme_issues_0.pdf": {
+    "title": "Doc 78 - Parc Ferme Issues",
+    "published": "11.10.26 11:04 CET",
+    "important": false,
+    "seen_at": "2026-10-11T14:12:22.771278+00:00"
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_post-race_procedure.pdf": {
+    "title": "Doc 77 - Post-Race Procedure",
+    "published": "11.10.26 09:29 CET",
+    "important": false,
+    "seen_at": "2026-10-11T14:12:35.934357+00:00"
+  },
+  "/system/files/decision-document/2026_singapore_grand_prix_-_pre-race_procedure.pdf": {
+    "title": "Doc 76 - Pre-Race Procedure",
+    "published": "11.10.26 09:26 CET",
+    "important": false,
+    "seen_at": "2026-10-11T14:12:50.020063+00:00"
   }
 }

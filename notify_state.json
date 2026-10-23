@@ -6122,5 +6122,38 @@
     "published": "23.10.26 16:24 CET",
     "important": false,
     "seen_at": "2026-10-23T18:01:01.879565+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf": {
+    "title": "Doc 20 - Infringement - Free Practice 1 Deleted Lap Times",
+    "published": "23.10.26 22:45 CET",
+    "important": true,
+    "seen_at": "2026-10-23T21:14:16.974177+00:00",
+    "summary": "Multiple drivers had their Free Practice 1 lap times deleted for not using the track at specified turns."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_race_directors_competition_notes_v2.pdf": {
+    "title": "Doc 18 - Race Director's Competition Notes V2",
+    "published": "23.10.26 22:07 CET",
+    "important": false,
+    "seen_at": "2026-10-23T21:14:32.035131+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_1_classification.pdf": {
+    "title": "Doc 17 - Free Practice 1 Classification",
+    "published": "23.10.26 20:50 CET",
+    "important": false,
+    "seen_at": "2026-10-23T21:14:46.520543+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_5_-_pu_elements.pdf": {
+    "title": "Doc 15 - Infringement - Car 5 - PU Elements",
+    "published": "23.10.26 20:52 CET",
+    "important": true,
+    "seen_at": "2026-10-23T21:15:02.064024+00:00",
+    "summary": "Gabriel Bortoleto (Car 5) received a 20-grid position drop for the next race due to using additional Power Unit elements."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_43_-_pu_element.pdf": {
+    "title": "Doc 14 - Infringement - Car 43 - PU Element",
+    "published": "23.10.26 20:44 CET",
+    "important": true,
+    "seen_at": "2026-10-23T21:15:15.874536+00:00",
+    "summary": "Franco Colapinto (Car 43) received a 10-grid position drop for using a 4th Control Electronics Unit, exceeding the allowed limit."
   }
 }

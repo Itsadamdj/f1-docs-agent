@@ -6155,5 +6155,31 @@
     "important": true,
     "seen_at": "2026-10-23T21:15:15.874536+00:00",
     "summary": "Franco Colapinto (Car 43) received a 10-grid position drop for using a 4th Control Electronics Unit, exceeding the allowed limit."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf": {
+    "title": "Doc 24 - Infringement - Free Practice 2 Deleted Lap Times",
+    "published": "24.10.26 01:17 CET",
+    "important": true,
+    "seen_at": "2026-10-23T23:52:13.283413+00:00",
+    "summary": "Multiple drivers had their lap times deleted for not using the track at specific turns during Free Practice 2."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf": {
+    "title": "Doc 23 - Race Director Notes - SC2 - SC1 Times",
+    "published": "24.10.26 00:46 CET",
+    "important": false,
+    "seen_at": "2026-10-23T23:52:26.871384+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_2_classification.pdf": {
+    "title": "Doc 22 - Free Practice 2 Classification",
+    "published": "24.10.26 00:26 CET",
+    "important": false,
+    "seen_at": "2026-10-23T23:52:40.699767+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_car_63_-_alleged_forcing_another_driver_off_the_track.pdf": {
+    "title": "Doc 21 - Decision - Car 63 - Alleged forcing another driver off the track",
+    "published": "24.10.26 00:26 CET",
+    "important": true,
+    "seen_at": "2026-10-23T23:52:53.974882+00:00",
+    "summary": "Car 63 (George Russell) was investigated for allegedly forcing Car 16 off track at Turn 18, with stewards deciding no further action was required."
   }
 }

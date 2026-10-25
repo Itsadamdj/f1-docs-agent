@@ -6347,5 +6347,39 @@
     "published": "25.10.26 19:51 CET",
     "important": false,
     "seen_at": "2026-10-25T20:56:31.679721+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_race_deleted_lap_times.pdf": {
+    "title": "Doc 55 - Infringement - Race Deleted Lap Times",
+    "published": "25.10.26 23:06 CET",
+    "important": true,
+    "seen_at": "2026-10-25T23:01:04.467347+00:00",
+    "summary": "Several drivers had their lap times deleted for track limits infringements during the race."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_provisional_race_classification.pdf": {
+    "title": "Doc 54 - Provisional Race Classification",
+    "published": "25.10.26 22:55 CET",
+    "important": false,
+    "seen_at": "2026-10-25T23:01:37.804075+00:00"
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_63_-_leaving_the_track_and_gaining_an_advantage.pdf": {
+    "title": "Doc 53 - Infringement - Car 63 - Leaving the track and gaining an advantage",
+    "published": "25.10.26 22:59 CET",
+    "important": true,
+    "seen_at": "2026-10-25T23:02:11.656486+00:00",
+    "summary": "George Russell (Car 63) received a 5-second time penalty for leaving the track and rejoining, gaining a lasting advantage in Turn 12."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_87_-_causing_a_collision.pdf": {
+    "title": "Doc 52 - Infringement - Car 87 - Causing a Collision",
+    "published": "25.10.26 22:29 CET",
+    "important": true,
+    "seen_at": "2026-10-25T23:02:45.522350+00:00",
+    "summary": "Oliver Bearman (Car 87) received a 10-second time penalty for causing a collision with Car 10."
+  },
+  "/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_car_5_-_alleged_leaving_the_track_and_gaining_and_advantage.pdf": {
+    "title": "Doc 51 - Decision - Car 5 - Alleged leaving the track and gaining and advantage",
+    "published": "25.10.26 22:59 CET",
+    "important": true,
+    "seen_at": "2026-10-25T23:03:19.494620+00:00",
+    "summary": "Car 5 (Gabriel Bortoleto) received no further action for allegedly leaving the track in turn 11."
   }
 }

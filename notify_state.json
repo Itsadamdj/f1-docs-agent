@@ -6743,5 +6743,36 @@
     "published": "31.10.26 22:47 CET",
     "important": true,
     "seen_at": "2026-11-01T00:15:58.626649+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_starting_grid.pdf": {
+    "title": "Doc 60 - Provisional Starting Grid",
+    "published": "01.11.26 02:15 CET",
+    "important": true,
+    "seen_at": "2026-11-01T06:12:16.385678+00:00",
+    "summary": "Car 77 received a 50-place grid penalty for using additional power unit elements; Car 3 received a 1-place grid penalty for causing a collision; Car 30 received a 1-place grid penalty for driving erratically."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_final_qualifying_classification.pdf": {
+    "title": "Doc 59 - Final Qualifying Classification",
+    "published": "01.11.26 02:10 CET",
+    "important": false,
+    "seen_at": "2026-11-01T06:12:27.626191+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_car_30_-_permission_to_start.pdf": {
+    "title": "Doc 58 - Decision - Car 30 - Permission to start",
+    "published": "01.11.26 02:06 CET",
+    "important": true,
+    "seen_at": "2026-11-01T06:12:38.720266+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_technical_nonconformity.pdf": {
+    "title": "Doc 57 - Infringement - Car 30 - Technical nonconformity",
+    "published": "01.11.26 02:06 CET",
+    "important": true,
+    "seen_at": "2026-11-01T06:12:49.795542+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_p3_and_qualifying_scrutineering.pdf": {
+    "title": "Doc 56 - P3 and Qualifying Scrutineering",
+    "published": "01.11.26 01:53 CET",
+    "important": false,
+    "seen_at": "2026-11-01T06:13:00.853589+00:00"
   }
 }

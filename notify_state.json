@@ -6805,5 +6805,39 @@
     "published": "01.11.26 16:36 CET",
     "important": false,
     "seen_at": "2026-11-01T18:29:59.128795+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_11_-_pit_lane_speeding.pdf": {
+    "title": "Doc 71 - Infringement - Car 11 - Pit Lane Speeding",
+    "published": "01.11.26 22:44 CET",
+    "important": true,
+    "seen_at": "2026-11-01T22:16:18.784983+00:00",
+    "summary": "Car 11 (Sergio Perez) received a 5-second time penalty for pit lane speeding."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_16_-_left_the_track_and_gained_a_lasting_advantage.pdf": {
+    "title": "Doc 69 - Infringement - Car 16 - Left the track and gained a lasting advantage",
+    "published": "01.11.26 21:54 CET",
+    "important": true,
+    "seen_at": "2026-11-01T22:16:32.814385+00:00",
+    "summary": "Charles Leclerc (Car 16) received a 5-second time penalty for leaving the track and gaining a lasting advantage by completing an overtake whilst off track."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_55_-_pit_lane_speeding.pdf": {
+    "title": "Doc 68 - Infringement - Car 55 - Pit Lane Speeding",
+    "published": "01.11.26 21:14 CET",
+    "important": true,
+    "seen_at": "2026-11-01T22:16:46.669480+00:00",
+    "summary": "Car 55 (Carlos Sainz) was fined \u20ac1000 for pit lane speeding during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_final_starting_grid.pdf": {
+    "title": "Doc 67 - Final Starting Grid",
+    "published": "01.11.26 20:00 CET",
+    "important": true,
+    "seen_at": "2026-11-01T22:17:02.009279+00:00",
+    "summary": "Valtteri Bottas (Car 77) received a 50-place grid penalty, Max Verstappen (Car 3) a 1-place grid penalty, and Liam Lawson (Car 30) a 1-place grid penalty and pit lane start for various infringements."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf": {
+    "title": "Doc 66 - Parts and Parameters been replaced and or changed during Parc Ferme",
+    "published": "01.11.26 19:51 CET",
+    "important": false,
+    "seen_at": "2026-11-01T22:17:15.658044+00:00"
   }
 }

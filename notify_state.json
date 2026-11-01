@@ -6672,5 +6672,76 @@
     "important": true,
     "seen_at": "2026-10-31T21:22:46.922915+00:00",
     "summary": "Car 77 (Valtteri Bottas) of Cadillac Formula 1 Team was fined \u20ac100 for pit lane speeding."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_30_-_alleged_mgu-k_infringement.pdf": {
+    "title": "Doc 55 - Summons - Car 30 - Alleged MGU-K infringement",
+    "published": "01.11.26 00:06 CET",
+    "important": false,
+    "seen_at": "2026-11-01T00:13:44.288106+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_communication_from_the_stewards.pdf": {
+    "title": "Doc 54 - Communication from the Stewards",
+    "published": "01.11.26 00:03 CET",
+    "important": false,
+    "seen_at": "2026-11-01T00:13:57.993127+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_mgu-k_infringement_car_30.pdf": {
+    "title": "Doc 53 - MGU-K Infringement, Car 30",
+    "published": "31.10.26 23:54 CET",
+    "important": false,
+    "seen_at": "2026-11-01T00:14:11.504729+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_6_-_crossing_the_white_line_at_pit_entry.pdf": {
+    "title": "Doc 52 - Infringement - Car 6 - Crossing the white line at pit entry",
+    "published": "31.10.26 23:53 CET",
+    "important": true,
+    "seen_at": "2026-11-01T00:14:25.061296+00:00",
+    "summary": "Isack Hadjar (Car 6) received a reprimand for failing to follow Race Director's instruction for pit lane entry."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_55_-_failed_to_follow_race_directors_instructions_-_turn_11.pdf": {
+    "title": "Doc 51 - Infringement - Car 55 - Failed to follow Race Directors instructions - Turn 11",
+    "published": "31.10.26 23:52 CET",
+    "important": true,
+    "seen_at": "2026-11-01T00:14:39.037092+00:00",
+    "summary": "Carlos Sainz (Car 55) received a Warning for failing to follow Race Director's instructions after running off at Turn 11."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf": {
+    "title": "Doc 50 - Decision - Qualifying SC2-SC1 Times",
+    "published": "31.10.26 23:52 CET",
+    "important": true,
+    "seen_at": "2026-11-01T00:14:53.779439+00:00",
+    "summary": "Gabriel Bortoleto, Valtteri Bottas, Lewis Hamilton, Sergio Perez, and Isack Hadjar exceeded the time limit between Safety Car lines during qualifying, but the stewards decided to take no further action."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_double_yellow.pdf": {
+    "title": "Doc 49 - Infringement - Qualifying Deleted Lap Times - Double Yellow",
+    "published": "31.10.26 23:39 CET",
+    "important": true,
+    "seen_at": "2026-11-01T00:15:08.239594+00:00",
+    "summary": "Charles Leclerc and Carlos Sainz had their qualifying lap times deleted for passing through a double waved yellow flag sector."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf": {
+    "title": "Doc 48 - Infringement - Qualifying Deleted Lap Times",
+    "published": "31.10.26 23:35 CET",
+    "important": true,
+    "seen_at": "2026-11-01T00:15:22.829762+00:00",
+    "summary": "Multiple drivers had their qualifying lap times deleted for not using the track at specific turns."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_covers-on_time.pdf": {
+    "title": "Doc 47 - Covers-on Time",
+    "published": "31.10.26 23:33 CET",
+    "important": false,
+    "seen_at": "2026-11-01T00:15:33.910970+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_qualifying_classification.pdf": {
+    "title": "Doc 46 - Provisional Qualifying Classification",
+    "published": "31.10.26 23:21 CET",
+    "important": false,
+    "seen_at": "2026-11-01T00:15:47.577566+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_14_-_failed_to_replace_the_steering_wheel_after_leaving_the_car.pdf": {
+    "title": "Doc 45 - Infringement - Car 14 - Failed to replace the steering wheel after leaving the car",
+    "published": "31.10.26 22:47 CET",
+    "important": true,
+    "seen_at": "2026-11-01T00:15:58.626649+00:00"
   }
 }

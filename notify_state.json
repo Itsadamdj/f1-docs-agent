@@ -6915,5 +6915,37 @@
     "published": "01.11.26 23:48 CET",
     "important": true,
     "seen_at": "2026-11-02T01:36:22.598266+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_championship_points.pdf": {
+    "title": "Doc 87 - Championship Points",
+    "published": "02.11.26 02:55 CET",
+    "important": false,
+    "seen_at": "2026-11-02T08:12:53.989614+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_final_race_classification.pdf": {
+    "title": "Doc 86 - Final Race Classification",
+    "published": "02.11.26 02:50 CET",
+    "important": true,
+    "seen_at": "2026-11-02T08:13:07.316123+00:00",
+    "summary": "Car 81 received a 10-second time penalty, Car 10 received a 30-second time penalty, and Car 43 received a 10-second time penalty."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_43_-_failing_to_slow_under_yellow_flags.pdf": {
+    "title": "Doc 85 - Infringement - Car 43 - Failing to slow under yellow flags",
+    "published": "02.11.26 02:35 CET",
+    "important": true,
+    "seen_at": "2026-11-02T08:13:21.329036+00:00",
+    "summary": "Franco Colapinto (Car 43) received a 10-second time penalty and 1 penalty point for failing to sufficiently reduce speed under a single yellow flag."
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_10_-_failing_to_slow_under_yellow_flags.pdf": {
+    "title": "Doc 84 - Infringement - Car 10 - Failing to slow under yellow flags",
+    "published": "02.11.26 02:34 CET",
+    "important": true,
+    "seen_at": "2026-11-02T08:13:32.201032+00:00"
+  },
+  "/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_63_-_failure_to_attend_mandatory_post-race_commitments.pdf": {
+    "title": "Doc 83 - Infringement - Car 63 - Failure to attend mandatory post-race commitments",
+    "published": "02.11.26 02:33 CET",
+    "important": true,
+    "seen_at": "2026-11-02T08:13:43.048407+00:00"
   }
 }

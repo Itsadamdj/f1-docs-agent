@@ -6989,5 +6989,68 @@
     "published": "05.11.26 20:23 CET",
     "important": false,
     "seen_at": "2026-11-05T22:23:14.474082+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf": {
+    "title": "Doc 18 - Infringement - Free Practice 1 Deleted Lap Times",
+    "published": "06.11.26 17:55 CET",
+    "important": true,
+    "seen_at": "2026-11-06T16:58:39.290846+00:00",
+    "summary": "Multiple drivers had their Free Practice 1 lap times deleted for not using the track at turns 1, 7, 10, and 12."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_1_classification.pdf": {
+    "title": "Doc 17 - Free Practice 1 Classification",
+    "published": "06.11.26 17:49 CET",
+    "important": false,
+    "seen_at": "2026-11-06T16:58:52.933819+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_43_-_pit_lane_speeding.pdf": {
+    "title": "Doc 16 - Infringement - Car 43 - Pit Lane Speeding",
+    "published": "06.11.26 17:40 CET",
+    "important": true,
+    "seen_at": "2026-11-06T16:59:07.043065+00:00",
+    "summary": "Car 43 (Franco Colapinto) was fined \u20ac100 for pit lane speeding during Free Practice 1."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_63_-_changes_to_pu_element.pdf": {
+    "title": "Doc 15 - Infringement - Car 63 - Changes to PU element",
+    "published": "06.11.26 17:25 CET",
+    "important": true,
+    "seen_at": "2026-11-06T16:59:21.269148+00:00",
+    "summary": "Driver George Russell (Car 63) received a 5-grid position penalty for using a 6th Engine (ICE)."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition.pdf": {
+    "title": "Doc 14 - New PU Elements for this Competition",
+    "published": "06.11.26 16:33 CET",
+    "important": false,
+    "seen_at": "2026-11-06T16:59:36.722750+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_entry_list.pdf": {
+    "title": "Doc 13 - Entry List",
+    "published": "06.11.26 15:32 CET",
+    "important": false,
+    "seen_at": "2026-11-06T16:59:50.703416+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_car_presentation_submissions.pdf": {
+    "title": "Doc 12 - Car Presentation Submissions",
+    "published": "06.11.26 15:32 CET",
+    "important": false,
+    "seen_at": "2026-11-06T17:00:06.932062+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_curfew.pdf": {
+    "title": "Doc 10 - Curfew",
+    "published": "06.11.26 15:25 CET",
+    "important": false,
+    "seen_at": "2026-11-06T17:01:18.229864+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_self_scrutineering.pdf": {
+    "title": "Doc 9 - Self Scrutineering",
+    "published": "06.11.26 15:25 CET",
+    "important": false,
+    "seen_at": "2026-11-06T17:01:31.547871+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf": {
+    "title": "Doc 8 - PU Elements used per Driver up to now",
+    "published": "06.11.26 15:23 CET",
+    "important": false,
+    "seen_at": "2026-11-06T17:01:46.107530+00:00"
   }
 }

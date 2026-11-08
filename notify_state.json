@@ -7288,5 +7288,116 @@
     "published": "08.11.26 12:27 CET",
     "important": false,
     "seen_at": "2026-11-08T15:00:31.595598+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_30_-_alleged_causing_a_collision.pdf": {
+    "title": "Doc 73 - Summons - Car 30 - Alleged causing a collision",
+    "published": "08.11.26 20:17 CET",
+    "important": false,
+    "seen_at": "2026-11-08T19:28:30.523147+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_16_-_alleged_causing_a_collision.pdf": {
+    "title": "Doc 72 - Summons - Car 16 - Alleged causing a collision",
+    "published": "08.11.26 20:16 CET",
+    "important": false,
+    "seen_at": "2026-11-08T19:28:44.178881+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_provisional_race_classification.pdf": {
+    "title": "Doc 70 - Provisional Race Classification",
+    "published": "08.11.26 19:56 CET",
+    "important": false,
+    "seen_at": "2026-11-08T19:28:57.838819+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_43_-_alleged_unsafe_release_by_car_12.pdf": {
+    "title": "Doc 69 - Summons - Car 43 - Alleged unsafe release by Car 12",
+    "published": "08.11.26 20:00 CET",
+    "important": false,
+    "seen_at": "2026-11-08T19:29:11.803847+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_12_-_alleged_unsafe_release.pdf": {
+    "title": "Doc 68 - Summons - Car 12 - Alleged unsafe release",
+    "published": "08.11.26 20:15 CET",
+    "important": false,
+    "seen_at": "2026-11-08T19:29:25.072268+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_23_-_rejoining_the_track_unsafely.pdf": {
+    "title": "Doc 67 - Infringement - Car 23 - Rejoining the track unsafely",
+    "published": "08.11.26 20:03 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:29:39.052305+00:00",
+    "summary": "Alexander Albon (Car 23) received a 5-second time penalty and 2 penalty points for rejoining the track unsafely, forcing Car 10 to brake."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_decision_-_car_11_-_alleged_failure_to_slow_under_yellow_flags.pdf": {
+    "title": "Doc 66 - Decision - Car 11 - Alleged failure to slow under yellow flags",
+    "published": "08.11.26 19:42 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:29:52.999671+00:00",
+    "summary": "Sergio Perez (Car 11) was investigated for alleged failure to slow for double yellow flags, but the stewards decided no further action was necessary."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_decision_-_car_44_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf": {
+    "title": "Doc 65 - Decision - Car 44 - Alleged leaving the track and gaining an advantage",
+    "published": "08.11.26 19:39 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:30:06.890332+00:00",
+    "summary": "Car 44 (Lewis Hamilton) was investigated for allegedly leaving the track and gaining an advantage, but the stewards decided no further action was necessary."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_18_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf": {
+    "title": "Doc 64 - Infringement - Car 18 - Failure to follow Race Directors Instruction - Practice Start",
+    "published": "08.11.26 19:36 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:30:21.085041+00:00",
+    "summary": "Lance Stroll (Car 18) received a reprimand for failing to cross the pit exit white line at the earliest opportunity during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_77_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf": {
+    "title": "Doc 63 - Infringement - Car 77 - Failure to follow Race Directors Instruction - Practice Start",
+    "published": "08.11.26 19:27 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:30:34.914597+00:00",
+    "summary": "Valtteri Bottas (Car 77) received a reprimand for failing to cross the pit exit white line at the earliest opportunity during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_6_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf": {
+    "title": "Doc 62 - Infringement - Car 6 - Failure to follow Race Directors Instruction - Practice Start",
+    "published": "08.11.26 19:17 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:30:49.685302+00:00",
+    "summary": "Isack Hadjar (Car 6) received a reprimand for failing to cross the pit exit white line at the earliest opportunity during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_11_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf": {
+    "title": "Doc 61 - Infringement - Car 11 - Failure to follow Race Directors Instruction - Practice Start",
+    "published": "08.11.26 19:16 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:31:03.955015+00:00",
+    "summary": "Car 11 (Sergio Perez) received a reprimand for failing to cross the pit exit white line at the earliest opportunity during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_27_-_failure_to_follow_race_directors_instruction_-_practice_start.pdf": {
+    "title": "Doc 60 - Infringement - Car 27 - Failure to follow Race Directors Instruction - Practice Start",
+    "published": "08.11.26 19:15 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:31:18.551364+00:00",
+    "summary": "Nico Hulkenberg (Car 27) received a reprimand for failing to cross the pit exit white line at the earliest opportunity during reconnaissance laps."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_final_starting_grid.pdf": {
+    "title": "Doc 59 - Final Starting Grid",
+    "published": "08.11.26 17:00 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:31:34.687130+00:00",
+    "summary": "Cars 63, 3, 11, 16, 44, 41, and 5 received grid penalties ranging from 5 to 75 places for using additional power unit elements."
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf": {
+    "title": "Doc 58 - Parts and Parameters been replaced and or changed during Parc Ferme",
+    "published": "08.11.26 16:51 CET",
+    "important": false,
+    "seen_at": "2026-11-08T19:31:48.587133+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_5_-_changes_to_pu_elements.pdf": {
+    "title": "Doc 57 - Infringement - Car 5 - Changes to PU elements",
+    "published": "08.11.26 16:20 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:31:59.730249+00:00"
+  },
+  "/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_41_-_changes_to_pu_elements.pdf": {
+    "title": "Doc 56 - Infringement - Car 41 - Changes to PU elements",
+    "published": "08.11.26 16:16 CET",
+    "important": true,
+    "seen_at": "2026-11-08T19:32:11.133712+00:00"
   }
 }

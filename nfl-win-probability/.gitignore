@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+
+# Secrets (copy .env.example to .env and fill in locally)
+.env
+
+# Downloaded / generated data: rebuilt by the pipeline, too big for git
+data/
+models/*.txt
+models/*.json
+models/*.pkl
+models/*.joblib
+
+# Python / OS noise
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+Thumbs.db
